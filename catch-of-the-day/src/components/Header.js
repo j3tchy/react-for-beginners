@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+// Implict return when using => (
 const Header = (props) => (
     <header className="top">
         <h1>
