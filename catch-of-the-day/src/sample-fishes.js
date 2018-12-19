@@ -4,7 +4,7 @@ const fishes = {
     name: "Pacific Halibut",
     image: "/images/hali.jpg",
     desc:
-      "Everyone’s favorite white fish. We will cut it to the size you need and ship it.",
+      "Everyones favorite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
     status: "available"
   },
